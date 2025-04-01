@@ -69,7 +69,7 @@ To operationalize this rule library across teams and platforms:
 ## Alert Trigger Rule Set
 Rationale: Each alert pattern category is designed to address specific needs—whether it’s proactive monitoring, business impact, or improving the alerting process. The rationale behind each pattern is to ensure that alerts are timely, relevant, and actionable, which helps teams improve operational efficiency, prevent disruptions, and align technical performance with business goals.
 
-### Metric-Based Alert Patterns
+### System Metric-Based Alert Patterns
 Rationale: Metric-Based Alert Patterns are built around specific system metrics, such as CPU usage, memory usage, or disk space. These metrics serve as key performance indicators for system health. By setting thresholds and triggering alerts based on metric deviations, these patterns provide teams with early warnings of potential resource exhaustion, allowing for timely intervention and prevention of system failures. These alerts are critical in maintaining system stability and performance.
 
 #### Rule ID: GC-001
